@@ -26,7 +26,7 @@ To run the projects in this repository, you need to have Python 3 and the follow
 You can install these packages using pip:
 
 ```cmd
-pip install tensorflow keras torch numpy opencv-python matplotlib pillow
+pip install tensorflow keras caer numpy opencv-python matplotlib
 ```
 
 If you would like to clone the repository to your local machine, you can do so using the following command:
