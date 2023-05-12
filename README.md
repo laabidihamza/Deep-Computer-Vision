@@ -9,6 +9,7 @@ This repository contains deep learning project for computer vision using Python 
   - [Image Classification](#image_Classification)
   - [Object Detection](#object_Detection)
   - [Style Transfer](#style_Transfer)
+- [Data](#data)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,6 +49,10 @@ git clone https://github.com/laabidihamza/Deep-Computer-Vision.git
 ### Style Transfer
 
 - **Neural Style Transfer**: An implementation of the neural style transfer algorithm using TensorFlow and Keras.
+
+## Data
+
+The datasets used in these projects are available online and are included in each project directory. You can also download the datasets directly from the [source website](https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset).
 
 ## Contributing
 
