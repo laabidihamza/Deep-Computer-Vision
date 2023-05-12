@@ -6,9 +6,9 @@ This repository contains deep learning project for computer vision using Python 
 
 - [Installation](#installation)
 - [Tools](#Tools)
-  - [Image Classification](#image_Classification)
-  - [Object Detection](#object_Detection)
-  - [Style Transfer](#style_Transfer)
+  - [Image Classification](#image-Classification)
+  - [Object Detection](#object-Detection)
+  - [Style Transfer](#style-Transfer)
 - [Data](#data)
 - [Contributing](#contributing)
 - [License](#license)
